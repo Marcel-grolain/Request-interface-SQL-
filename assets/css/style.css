@@ -1,0 +1,41 @@
+
+.bg-muc {
+    background-color: #0a2163 !important;
+}
+
+.headerNav {
+    background-color: #0a2163 !important;
+}
+
+.btn-csv {
+    margin-right: 2% !important;
+}
+
+.header-table{
+    background-color: #0a2163 !important;
+}
+
+.header-listeRequest {
+    background-color: #0a2163 !important;
+}
+
+.active {
+    background-color: #0a2d63 !important;
+}
+
+.font-small-famiily {
+    font-size: small !important;
+    font-family: 'Times New Roman', Georgia, Times, serif !important;
+}
+
+.font-small {
+    font-size: small !important;
+}
+
+.font-famiily {
+    font-family: 'Times New Roman', Georgia, Times, serif !important;
+}
+
+.align-content-center {
+    align-items: center !important;
+}
